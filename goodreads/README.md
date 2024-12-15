@@ -6,7 +6,7 @@ This analysis explores the distribution of average ratings for books in the prov
 
 Imagine a vast library, its shelves overflowing with countless books, each bearing a whisper of its average rating.  The distribution of these ratings paints a captivating story of literary tastes and critical acclaim.
 
-Our analysis reveals a fascinating pattern.  The majority of books reside within the heart of the rating spectrum – a comfortable realm between 3 and 4 stars. These books, like the bustling marketplaces of a vibrant city, represent a diversity of themes and styles, appealing to a broad audience.
+Our analysis reveals a fascinating pattern.  The majority of books reside within the heart of the rating spectrum â€“ a comfortable realm between 3 and 4 stars. These books, like the bustling marketplaces of a vibrant city, represent a diversity of themes and styles, appealing to a broad audience.
 
 At the lower end of the scale, the books with ratings below 2 stars are few and far between, perhaps representing tales of forgotten worlds or experimental narratives that push the boundaries of convention. They are like hidden gems in a forgotten corner of the library, waiting to be rediscovered by adventurous spirits.
 
